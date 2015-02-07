@@ -1,8 +1,6 @@
 <div class="container-fluid sitefooter">
   <div class ="col-xs-12">
     <footer id="footer" class="site-footer"> 
-      <div class="footer-col-wrapper">
-        <div class="footer-col footer-col-1">
           <div class="social">
             <ul>
               <li>
@@ -16,13 +14,17 @@
               </li>
             </ul>
           </div>
-          <div id="footerinfo">
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} Github Icon made by <a href="http://www.danielbruce.se" title="Daniel Bruce">Daniel Bruce</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a> If email is your bag: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+          <div class="container-fluid">
+            <div class="col-xs-12">
+              <div id="footerinfo">
+                <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} Github Icon made by <a href="http://www.danielbruce.se" title="Daniel Bruce">Daniel Bruce</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a> If email is your bag: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+              </div>
+            </div>
           </div>
+        </footer>
         </div>
       </div>
-    </footer>
-  </div>
-</div>
+    
+
 
 
