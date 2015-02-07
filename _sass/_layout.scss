@@ -46,38 +46,13 @@ body {
 
 }
 
-.posts {
-    width:200px;
-    margin:0 auto;
-    text-align:left;
-}
-
-h1 {
-  color: #ce2d31;
-}
-
-h3, a {
-  color: #dbb700;
-}
-
-span, p {
-  color: #f8f8f2;
-  margin: auto;
-}
-
-h2 {
-  color: #7ed22e;
-  font-family: 'Inconsolata';
-}
-
-
 .site-footer {
-    padding: $spacing-unit 0;
     background-color: #5a5a5a;
     text-align: center;
     bottom: 0;
-    position:fixed;
-    width:100%
+    position: fixed;
+    width:100%;
+    height: 9em;
 }
 
 
@@ -100,8 +75,8 @@ h2 {
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
     text-align: center;
+    color: $text-color;
 }
 
 .page-heading {
@@ -133,6 +108,11 @@ h2 {
 /**
  * Posts
  */
+
+.clear {
+    clear: both;
+    height: 200px
+}
 .post-header {
     margin-bottom: $spacing-unit;
 }
