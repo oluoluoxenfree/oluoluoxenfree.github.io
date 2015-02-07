@@ -54,7 +54,6 @@ body {
     width:100%;
 }
 
-
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
@@ -65,7 +64,7 @@ body {
     margin-left: 0;
 }
 
-.container-fluid.sitefooter {
+.container.sitefooter {
     padding-left: 0;
     margin-left: -15px;
 }
@@ -128,7 +127,7 @@ body {
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    padding-bottom: 25%;
 
     h2 {
         font-size: 32px;
