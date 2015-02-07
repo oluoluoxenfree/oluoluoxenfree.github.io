@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-[![wpid-wp-1415182027104](https://opentagclosetag.files.wordpress.com/2014/11/wpid-wp-14151820271042.jpeg?w=224)](http://www.ladieswhocode.com/) A free t-shirt is the best t-shirt[/caption]
+![A free t-shirt is the best t-shirt](/img/meteor.jpeg)
 
  [Ladies Who Code](http://www.ladieswhocode.com/) put on a competition to win a scholarship to [Meteor London](http://www.meteorlondon.com/)'s first workshop, and guess who won! I'm incredibly grateful and so glad I went.
 
@@ -9,7 +9,7 @@ layout: post
 
  I've done some of [Michael Hartl's Ruby on Rails tutorial](https://www.railstutorial.org/). A good part of any beginners Rails tutorial is spent saying "don't worry about all that other stuff, concentrate on what I'm talking about" so it was amazing having only three files to start off with and knowing what all of them did. Also when you edit something in the code your edits are live straight away, which was a nice departure from Rails.
 
- [caption id="" align="aligncenter" width="600"]![Embedded image permalink](https://pbs.twimg.com/media/B1TTvn_IYAAImUJ.jpg) This was the last section. [/caption]
+![This was the last section.](https://pbs.twimg.com/media/B1TTvn_IYAAImUJ.jpg)
 
  All these discoveries were made before the workshop started using [Meteor's official beginner's guide](https://www.meteor.com/install), so I was optimistic. I'd also ran [Javascripting](https://github.com/sethvincent/javascripting), recommended as a primer before the event, and felt okay about all the concepts. I'll admit at this point I did have misgivings: it all felt far too simple! I listened to a [Code Newbie podcast on Meteor](http://www.codenewbie.org/podcast/meteor) on the way down and the speaker confirmed my fears.
 
