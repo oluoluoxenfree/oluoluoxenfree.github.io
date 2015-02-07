@@ -87,6 +87,7 @@ body {
 .post-list {
     margin-left: 0;
     list-style: none;
+    vertical-align: middle;
 
     > li {
         margin-bottom: $spacing-unit;
