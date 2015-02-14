@@ -13,15 +13,3 @@ github_username:  oluoluoxenfree
 # Build settings
 markdown: kramdown
 
-#social icons
-
-social-icons:
- - title: GitHub
-   url: https://github.com/oluoluoxenfree
-   class: github
- - title: LinkedIn
-   url: https://uk.linkedin.com/in/oluniyiawosusi
-   class: linkedin
- - title: Twitter
-   url: https://twitter.com/oluoluoxenfree
-   class: twitter
