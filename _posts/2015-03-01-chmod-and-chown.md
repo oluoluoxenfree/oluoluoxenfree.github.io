@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Previously I mentioned that I accidentally gave my file root permissions when I cloned it from Github by using `sudo`. To fix this, I used the command `chmod` after having `chown` partially explained to me and the person changing their mind - I think they originally mixed them up - so I'll write about both.
 
 On Linux and other Unix-like operating systems, there is a set of rules for each file which defines who can access that file, and how they can access it. These rules are called file permissions or file modes. The command name chmod stands for "change mode", and it is used to define the way a file can be accessed.
