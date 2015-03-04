@@ -1,24 +1,21 @@
 <div class="container-fluid nopadding">
-      <div class ="col-xs-12 nopadding">
-        <header class="site-header">
-             <!-- Navigation -->
-            <nav class="navbar navbar-default nav-links navbar-static-top">
-                <div class="container-fluid">
-                    <div class="site-title">
-                        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-                    </div>
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <ul class="nav navbar-nav nav-justified">
-                        {% for page in site.pages %}{% if page.title %}
-                        <li>
-                            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                        </li>
-                        {% endif %}{% endfor %}
-                    </ul>
-                </div>
-            </nav>
-        </header>
-    </div>
+  <div class ="col-xs-12 nopadding">
+    <header class="site-header">
+         <!-- Navigation -->
+      <nav class="navbar navbar navbar-static-top">
+        <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <div class="navbar-header">
+            <ul class="nav nav-tabs navbar-left">
+              {% for page in site.pages %}{% if page.title %}
+                  <li role="presentation" class="active">
+                      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                  </li>
+              {% endif %}{% endfor %}
+            </ul>
+        </div>
+      </nav>
+    </header>
+  </div>
     <!-- /.container -->
 </div>
 

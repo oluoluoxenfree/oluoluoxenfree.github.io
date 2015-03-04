@@ -19,7 +19,6 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
-    margin-bottom: 9em;
 }
 
 
@@ -141,7 +140,7 @@ code {
     font-size: 15px;
     border: 1px solid $header-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: $background-color;
 }
 
 code {

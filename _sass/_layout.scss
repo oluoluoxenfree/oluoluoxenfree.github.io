@@ -3,9 +3,7 @@
  */
 .site-header {
     min-height: 56px;
-    text-align: center;
     text-decoration: none;
-
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -14,10 +12,7 @@
     font-size: 4rem;
     line-height: 5rem;
     float: none;
-    text-align: center;
     margin: 0 auto;
-    font-family: $header-font-family;
-    @extend %clearfix;
     padding-top: 3%;
 
     &,
@@ -27,34 +22,43 @@
     }
 }
 
-.navbar {
-   background-color: transparent !important;
-   background: transparent !important;
-   border: 0 !important;
-}
-
 .navbar-nav {
     margin:0;
+    background-color: #272822 !important;
     li {
     float:none !important;
     display:inline-block;
-    font-family: $header-font-family;
     font-size: 2rem;
+    background-color: #272822 !important;
         a {
             padding-top: 15px;
             padding-bottom: 15px;
-            color: #7775f4 !important;
+            color: #7775f4;
             float:none;
+            background-color: #272822;
         }
         a:hover {
-            color: #7ED22E !important;
+            color: #7ED22E;
+            background-color: none;
         }
     }
 }
 
-.navbar-nav > li.open > ul.dropdown-menu {
-  position: absolute;
-  float: none;
+.nav-tabs>li.active>a {
+        background-color: #272822;
+}
+
+.nav-tabs>li.active>a:hover {
+    color: #7ED22E;
+    background-color: #272822;
+}
+
+.nav-tabs {
+    border-bottom: none;
+}
+
+.navbar-brand {
+    text-shadow: none;
 }
 
 /**
