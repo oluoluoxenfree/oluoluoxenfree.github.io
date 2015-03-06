@@ -2,6 +2,7 @@
  * Site header
  */
 .site-header {
+    padding-top: 2%;
     min-height: 56px;
     text-decoration: none;
     // Positioning context for the mobile navigation icon
@@ -22,35 +23,39 @@
     }
 }
 
-.navbar-nav {
-    margin:0;
-    background-color: #272822 !important;
-    li {
-    float:none !important;
-    display:inline-block;
-    font-size: 2rem;
-    background-color: #272822 !important;
-        a {
-            padding-top: 15px;
-            padding-bottom: 15px;
-            color: #7775f4;
-            float:none;
-            background-color: #272822;
-        }
-        a:hover {
-            color: #7ED22E;
-            background-color: none;
-        }
-    }
+nav.navbar.navbar-static-top {
+  margin:0;
+  background-color: #171814 !important;
+  li {
+  float:none !important;
+  display:inline-block;
+  font-size: 2rem;
+  background-color: #272822 !important;
+      a {
+          padding-top: 15px;
+          padding-bottom: 15px;
+          color: #7775f4;
+          float:none;
+          background-color: #272822;
+          border: none;
+          margin-bottom: 5px;
+      }
+      a:hover {
+          color: #7ED22E;
+          background-color: none;
+      }
+  }
 }
 
 .nav-tabs>li.active>a {
         background-color: #272822;
+        border: none;
 }
 
 .nav-tabs>li.active>a:hover {
     color: #7ED22E;
     background-color: #272822;
+    border: none;
 }
 
 .nav-tabs {
@@ -60,6 +65,7 @@
 .navbar-brand {
     text-shadow: none;
 }
+
 
 /**
  * Site footer
