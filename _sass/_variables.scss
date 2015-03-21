@@ -1,0 +1,25 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$pink: #f3003d;
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$feature-colour: #1fda9a;
+$white: #fff;
+
+// Font stacks
+$title-font: corehumanistsansregular, Arial, sans-serif;
+$body-font: 'Open Sans', sans-serif;
+$georgia: Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}

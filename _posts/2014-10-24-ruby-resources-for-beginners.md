@@ -50,4 +50,4 @@ layout: post
 
  **Bonus**: I think this talk by Katrina Owen is what really inspired me to think that I could become a coder, and that passion and hard work are what are really important, rather than nebulous 'talent'. Many people are talented and squander it, but hard work can turn the mediocre into the world class. Here's a [transcript](http://www.kytrinyx.com/blog/hacking-passion).
 
- [youtube=http://youtu.be/rHLTltK1kss]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHLTltK1kss" frameborder="0" allowfullscreen></iframe>
