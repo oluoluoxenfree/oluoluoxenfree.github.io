@@ -11,4 +11,6 @@ I’m also learning digital skills like SEO, social media management and design 
 
 I’m doing all of this in the hopes of becoming a full stack web developer. I also want to get involved in FOSS and online community management.
 
+I'm currently looking for work in London.
+
 Drop me a line on twitter, I am @oluoluoxenfree on most things!
