@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-I’m Olu (Niyi-Awosusi), currently 22 and living in London. I’ve been in love with the internet ever since I installed dial-up on the family computer, back when NTL was still a thing and it timed out every 15 minutes!
+I’m Olu (Niyi-Awosusi), 23 and living in London. I’ve been in love with the internet ever since I installed dial-up on the family computer, back when NTL was still a thing and it timed out every 15 minutes!
 
-I like social enterprises, social networks and Socrates. Oh, and the rule of three. I’m currently a student at Founders and Coders, a free 16 week full time coding bootcamp that teaches Javascript, node, d3 and other lovely Javascript flavoured technologies.
+I like social enterprises, social networks and Socrates. Oh, and the rule of three. I was a student at Founders and Coders, a free 16 week full time coding bootcamp that teaches Javascript, Node, D3 and Hapi last time I checked.
 
-I’m also learning digital skills like SEO, social media management and design from the wonderful team at Fluency.
+I also learnt digital skills like SEO, social media management and design from the wonderful team at Fluency.
 
-I’m doing all of this in the hopes of becoming a full stack web developer. I also want to get involved in FOSS and online community management.
+I’m doing all this in the hopes of becoming a full stack web developer. I also want to get involved in FOSS and online community management.
 
 I'm currently looking for work in London.
 
