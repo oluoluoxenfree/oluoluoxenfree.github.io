@@ -215,19 +215,26 @@ img {
   letter-spacing: 2.6px;
 }
 
-.blink {
-  -moz-animation-duration: 1s;
-  -moz-animation-name: tgle;
-  -moz-animation-iteration-count: infinite;
-  -moz-animation-direction: alternate;
-  -webkit-animation-duration: 1s;
-  -webkit-animation-name: tgle;
-  -webkit-animation-iteration-count: infinite;
-  -webkit-animation-direction: alternate;
-  animation-duration: 1s;
-  animation-name: tgle;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }
 
 @keyframes tgle {
@@ -265,6 +272,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $title-font;
   font-size: 18px;
+  clear: both;
 
   @include mobile {
     float: none;
