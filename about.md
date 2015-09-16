@@ -9,7 +9,7 @@ I like social enterprises, social networks and Socrates. Oh, and the rule of thr
 
 I also learnt digital skills like SEO, social media management and design from the wonderful team at Fluency.
 
-I’m doing all this in the hopes of becoming a full stack web developer. I also want to get involved in FOSS and online community management.
+I’m currently looking for work as a front-end web developer. I also want to get involved in FOSS and online community management.
 
 I'm currently looking for work in London.
 
