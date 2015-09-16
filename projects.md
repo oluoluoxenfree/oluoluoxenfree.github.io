@@ -6,7 +6,7 @@ permalink: /projects/
 
 #Coding
 
-[Lorem ____um](http://www.opentagclosetag.com/lorem-blankum/): Generates Lorem Ipsum based on twitter feeds or hashtag searches. In progress.
+[Lorem ____um](http://www.opentagclosetag.com/lorem-blankum/): Generates Lorem Ipsum based on twitter feeds or hashtag searches. Built with Javascript, JQuery and SASS. In progress.
 
 
 #Community

@@ -215,26 +215,19 @@ img {
   letter-spacing: 2.6px;
 }
 
-.typed-cursor{
-    opacity: 1;
-    -webkit-animation: blink 0.7s infinite;
-    -moz-animation: blink 0.7s infinite;
-    animation: blink 0.7s infinite;
-}
-@keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-webkit-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-moz-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
+.blink {
+  -moz-animation-duration: 1s;
+  -moz-animation-name: tgle;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-direction: alternate;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-name: tgle;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  animation-duration: 1s;
+  animation-name: tgle;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 
 @keyframes tgle {
@@ -252,6 +245,7 @@ img {
   99.99% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -337,6 +331,19 @@ nav {
 .footer {
   padding: 20px 0;
   text-align: center;
+}
+
+/*SEO and Accessibility optimisation: description of logo*/
+
+.visually-hidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
