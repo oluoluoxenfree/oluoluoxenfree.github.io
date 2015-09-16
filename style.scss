@@ -157,6 +157,16 @@ img {
     clear: both;
 }
 
+// Flexbox Mixin
+
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -164,10 +174,6 @@ img {
 //
 // .masthead
 //
-
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
 
 .masthead {
   padding: 20px 0;
@@ -292,6 +298,16 @@ nav {
 //
 // .main
 //
+
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+}
 
 .posts > .post {
   padding-bottom: 2em;
