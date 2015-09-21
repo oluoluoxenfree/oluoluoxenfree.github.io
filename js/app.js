@@ -12,7 +12,7 @@ $.getJSON('http://whateverorigin.org/get?url=' +
     encodeURIComponent('https://github.com/users/oluoluoxenfree/contributions.html') + '&callback=?',
     function (data) {
         //If the expected response is text/plain
-        $(".github").html(data.contents);
+        $(".github-holder").html(data.contents);
 
         //If the expected response is JSON
         //var response = $.parseJSON(data.contents);
