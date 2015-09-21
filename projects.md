@@ -6,7 +6,7 @@ permalink: /projects/
 
 #Github contributions chart
 
-<div class="github"></div>
+<div class="github-holder"></div>
 
 The darker the colour the more code I pushed that day!
 
