@@ -59,6 +59,10 @@ version: v1.1.0
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
+# A sitemap apparently
+gems:
+  - jekyll-sitemap
+
 # Exclude these files from your production _site
 exclude:
     - Gemfile
