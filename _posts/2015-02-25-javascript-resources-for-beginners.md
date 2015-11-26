@@ -26,6 +26,14 @@ First of all you should learn HTML and CSS.
 
 [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - I think I may swap to reading this on the tube, though I haven't used it much it looks like it covers a lot of the core advanced topics that things like Codecademy skim over.
 
+[Rebecca Murphey's JS Assessment](https://github.com/rmurphey/js-assessment) - 'Am I A Good Developer?' is a topic on every developers' mind, so what better way to put your mind to rest (and work!) than with a set of tests designed by one of the best Javascript developers out there?
+
+[Codewars](http://www.codewars.com/) - More skill testing, and a friendlier interface for those of you not yet comfortable with git and the command line.
+
 Crockford's Good Parts also has to be mentioned here, but I haven't yet read it I'm assured by the mentors at Founders and Coders, as well as some of the students on my course that it is worth reading.
+
+Once you're at this point, it's all about keeping the faith and working as hard as you're able to not to let imposter syndrome and seemingly unsquashable bugs get you down. Here's a talk from Angelina Fabbro that's inspiring and encouraging:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0TFmdO4ZP0" frameborder="0" allowfullscreen></iframe>
 
 This list is a lot shorter than my Ruby list, but this time I think it's important to have quality over quantity. Maybe I'll share my many (many, many, many) bookmarks in a better format another time.
