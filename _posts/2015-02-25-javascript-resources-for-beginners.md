@@ -34,6 +34,6 @@ Crockford's Good Parts also has to be mentioned here, but I haven't yet read it 
 
 Once you're at this point, it's all about keeping the faith and working as hard as you're able to not to let imposter syndrome and seemingly unsquashable bugs get you down. Here's a talk from Angelina Fabbro that's inspiring and encouraging:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v0TFmdO4ZP0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/v0TFmdO4ZP0" frameborder="0" allowfullscreen></iframe>
 
 This list is a lot shorter than my Ruby list, but this time I think it's important to have quality over quantity. Maybe I'll share my many (many, many, many) bookmarks in a better format another time.
