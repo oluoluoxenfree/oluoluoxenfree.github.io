@@ -349,6 +349,24 @@ nav {
   text-align: center;
 }
 
+.pagination {
+  text-align: center;
+
+  .previous {
+    float: left;
+  }
+
+  .next {
+    float: right;
+  }
+
+  .page_number {
+    display: inline;
+    margin: auto;
+    text-align: center;
+  }
+}
+
 /*SEO and Accessibility optimisation: description of logo*/
 
 .visually-hidden {
