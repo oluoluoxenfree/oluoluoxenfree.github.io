@@ -17,6 +17,6 @@ The darker the colour the more code I pushed that day!
 
 #Community
 
-[Code Camp Community](http://www.meetup.com/Code-Camp-Community/): Code Camp Community is a group for current, potential and former bootcamp students. We welcome anyone else who wants to support us on our learning and career journeys.
+I recently started <a href="https://twitter.com/javascripthers" target="_blank">Javascripthers</a>, a community for women and non binary people who code in Javascript.
 
 
