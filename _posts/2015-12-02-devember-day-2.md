@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-##Day 2:
 
 After reading [this post](http://blog.teamtreehouse.com/7-good-developer-habits-wish-id-developed-sooner?cid=4902&utm_source=facebook&utm_medium=social&utm_content=blog-post&utm_campaign=social-nov-2015) I decided that my focus for the next day would be [Javascripthers website](http://javascripthers.github.io/) ([github](https://github.com/javascripthers/javascripthers.github.io)) and [Twitter Windchimes](https://github.com/oluoluoxenfree/twitter_windchimes). I'm going to use Jekyll for the Javascripthers site so it'll be things like faffing over layout and content that make it take time.
 
