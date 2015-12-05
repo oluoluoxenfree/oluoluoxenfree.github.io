@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Today I barely did anything on my personal projects as I was at [codebar](https://codebar.io/), [24 pull requests](http://24pullrequests.com/), [your first pr](http://yourfirstpr.github.io/) and [ladies who code](http://www.meetup.com/Ladies-Who-Code-UK/) event to help people submit their first pull requests. Personally I worked on Twitter Windchimes for a bit, deleting the chrome extension stuff and setting up the streaming for the app, though I'm unsure how I'll test this without getting banned by Twitter for a while for making too many requests, but we'll see.
+Today I barely did anything on my personal projects as I was at [codebar](https://codebar.io/), [24 pull requests](http://24pullrequests.com/), [your first pr](http://yourfirstpr.github.io/) and [ladies who code](http://www.meetup.com/Ladies-Who-Code-UK/) event to help people submit their first pull requests. Personally I worked on [Twitter Windchimes](https://github.com/oluoluoxenfree/twitter_windchimes) for a bit, deleting the chrome extension stuff and setting up the streaming for the app, though I'm unsure how I'll test this without getting banned by Twitter for a while for making too many requests, but we'll see.
 
 I realise I haven't been posting much actual code in these devlogs but hopefully that'll change soon when I start getting more into Windchimes. I feel like nothing I'm doing is of particular interest though I guess I'm wrong about that when it comes to hapi servers at the very least, so I'll try and post about that when I'm feeling less tired.
 
@@ -30,7 +30,7 @@ gulp.task('default', function() {
 ```
 Not completely sure about the reasoning behind the change save for [this stackoverflow post](http://stackoverflow.com/questions/28826418/gulp-run-alternative) but I've stopped getting threatening messages from gulp!
 
-I'm excited to try and do an animation of some sort for the windchimes, and to also play around with an audio API to make the least irritating gangling and a (hopefully) more realistic effect. It should be interesting. I've done very small animations on [lorem blankum]() using [animate.css](), and the blinking cursor of this blog,but I'm keen to continue learning more abit it.
+I'm excited to try and do an animation of some sort for the windchimes, and to also play around with an audio API to make the least irritating gangling and a (hopefully) more realistic effect. It should be interesting. I've done very small animations on [lorem blankum](https://lorem-blankum.herokuapp.com/) using [animate.css](https://daneden.github.io/animate.css/), and the blinking cursor of this blog, but I'm keen to continue learning more about it.
 
 I'm also excited to try out a gif making app for linux called [silentcast](https://github.com/colinkeenan/silentcast), I'm going to use it to make demos of the different things I've made on github, add to my projects page and may update some of these posts as well.
 
