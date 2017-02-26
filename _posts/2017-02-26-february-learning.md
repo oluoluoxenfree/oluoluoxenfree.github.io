@@ -1,5 +1,5 @@
 ---
-title: 'What I'm learning: 26th February 2017'
+title: What I'm learning, week 26th February 2017
 layout: post
 ---
 
