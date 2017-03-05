@@ -3,7 +3,7 @@ layout: post
 title: What I'm learning; 6th March 2017
 ---
 
-I wa sa lot more sucessful this week doing what I said I would, even if I didn't complete them to as high a standard as I would have liked I did at least do parts of both of the goals I set myself.
+I was a lot more sucessful this week doing what I said I would. Even if I didn't complete them to as high a standard as I would have liked, I did at least do parts of both of the goals I set myself.
 
 __Last Week__:
 
