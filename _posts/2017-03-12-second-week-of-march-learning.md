@@ -3,11 +3,11 @@ layout: post
 title: What I'm learning; 13th March 2017
 ---
 
-Not a very sucessful week, but I was tired and a ill for part of it. Mostly chalk it up to poor planning and poor initial scanning of the material.
+Not a very successful week, but I was tired and a ill for part of it. Mostly chalk it up to poor planning and poor initial scanning of the material.
 
 __Last Week__:
 
-- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/): I read up until the chapter on Big O, and was confused about how any of the chapter on complexity actually mapped onto anything people di in their day to day. It was interesting but I also didn't feel I'd completely grasped the topic, so gonna lay this book aside for now and chalk it up to it needing to be auxillary rather than primary material for understanding this stuff.
+- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/): I read up until the chapter on Big O, and was confused about how any of the chapter on complexity actually mapped onto anything people did in their day to day. It was interesting but I also didn't feel I'd completely grasped the topic, so gonna lay this book aside for now and chalk it up to it needing to be auxiliary rather than primary material for understanding this stuff.
 
 - [es6.io](https://es6.io/): Kept forgetting this was my other task, and also that there are a bunch of exercises to do throughout the course. Didn't get round to doing much of it.
 
