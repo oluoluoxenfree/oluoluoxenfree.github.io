@@ -9,7 +9,7 @@ Still trying to stick to being project focused.
 
 __Last Week__:
 
-Didn't get around to either of my goals from last week given aforementioned laptop probelms.
+Didn't get around to either of my goals from last week given aforementioned laptop problems.
 
 __This Week__:
 
