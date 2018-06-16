@@ -138,11 +138,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $feature-colour;
+  background: $pink;
 }
 ::selection {
   color: $black;
-  background: $feature-colour;
+  background: $pink;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -177,7 +177,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $feature-colour;
+  border-bottom: 1px solid $pink;
 
   @include mobile {
     text-align: center;
@@ -311,7 +311,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $feature-colour;
+  border-bottom: 1px solid $pink;
 }
 
 .posts > .post:last-child {
@@ -341,12 +341,16 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  background-color: $feature-colour;
+  background-color: $pink;
 }
 
 .footer {
   padding: 20px 0;
   text-align: center;
+
+  a {
+    color:$darkGray;
+  }
 }
 
 .pagination {
@@ -381,7 +385,7 @@ nav {
 }
 
 .reading-time {
-  color: $feature-colour;
+  color: $pink;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

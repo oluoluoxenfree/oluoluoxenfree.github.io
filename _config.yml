@@ -63,7 +63,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # A sitemap apparently
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 

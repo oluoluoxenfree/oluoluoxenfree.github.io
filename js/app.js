@@ -8,14 +8,5 @@ $.ajaxSetup({
     contentType: "application/json; charset=utf-8"
 });
 
-$.getJSON('http://whateverorigin.org/get?url=' +
-    encodeURIComponent('https://github.com/users/oluoluoxenfree/contributions.html') + '&callback=?',
-    function (data) {
-        //If the expected response is text/plain
-        $(".github-holder").html(data.contents);
-
-        //If the expected response is JSON
-        //var response = $.parseJSON(data.contents);
-});
 });
 
