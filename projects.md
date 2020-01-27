@@ -6,11 +6,10 @@ permalink: /projects/
 
 ## Coding
 
-[Lorem ____um](http://www.opentagclosetag.com/lorem-blankum/): Generates Lorem Ipsum based on twitter feeds or hashtag searches. Built with Javascript, JQuery and SCSS.
-
+[Lorem \_\_\_\_um](http://www.opentagclosetag.com/lorem-blankum/): Generates Lorem Ipsum based on twitter feeds or hashtag searches. Built with Javascript, JQuery and SCSS.
 
 ## Community
 
-I started <a href="https://twitter.com/wildcardjs" target="_blank">wildcardjs</a>, a community for POC, LGBTQ+ people, disabled people and women who code in Javascript.
-
-
+- <a href="https://twitter.com/wildcardMeetp" target="_blank">wildcardjs</a> is a community for anyone working in tech to meet other people in tech in a relaxed and friendly environment.
+- [codebop](https://twitter.com/codebop) is a meetup about learning/playing/listening/performing/other things I haven't thought of, and is centered around the intersections between music and tech!
+- [subversion](https://twitter.com/subversionconf) is a meetup about how to have a positive impact in the world with a tech career.
